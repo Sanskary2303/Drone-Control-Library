@@ -16,7 +16,7 @@ A comprehensive Python library for controlling drones using the MAVLink protocol
 
 1. Clone this repository:
     ```bash
-    git@github.com:Sanskary2303/Drone-Control-Library.git
+    git clone git@github.com:Sanskary2303/Drone-Control-Library.git
     cd Drone-Control-Library
     ```
 
